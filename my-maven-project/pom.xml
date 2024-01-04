@@ -7,6 +7,11 @@
   <version>1.0-SNAPSHOT</version>
   <name>my-maven-project</name>
   <url>http://maven.apache.org</url>
+  <properties>
+	<project.theme.name>default</project.theme.name>
+	<project.resources.build.folder>
+	</project.resources.build.folder>
+</properties
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
